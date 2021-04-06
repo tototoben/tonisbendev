@@ -1,6 +1,6 @@
 {
-  "name": "11st-starter-kit",
-  "description": "11ty, powered by Snowpack with Tailwind CSS and Alpine.js.",
+  "name": "tonisbendev",
+  "description": "it me, tototoben",
   "version": "1.0.0",
   "engines": {
     "node": "14.x.x",
@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:stefanfrede/11st-starter-kit.git"
+    "url": "git@github.com:tototoben/tonisbendev.git"
   },
   "keywords": [
     "alpinejs",
@@ -19,15 +19,12 @@
     "tailwindcss"
   ],
   "author": {
-    "name": "Stefan Frede",
-    "email": "stefan@frede.dev"
+    "name": "Tõnis Bender",
+    "email": "to.to.to.ben@gmail.com"
   },
   "license": "MIT",
   "private": true,
-  "bugs": {
-    "url": "https://github.com/stefanfrede/11st-starter-kit/issues"
-  },
-  "homepage": "https://11st-starter-kit.netlify.app",
+  "homepage": "https://tonisben.dev",
   "browserslist": [
     "defaults",
     "maintained node versions",
